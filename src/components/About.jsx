@@ -72,9 +72,14 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in  JavaScript, and expertise in frameworks 
-        like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, 
-        scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+       I have a strong foundation in programming, having learned C and Python.
+Currently, I am enhancing my skills by learning CSS and JavaScript for front-end development,
+as well as Java and Data Structures and Algorithms (DSA) to deepen my understanding of
+software development.
+
+In 2025, I was selected as a finalist in the prestigious IIT Bombay Hackathon,
+where I had the opportunity to showcase my technical abilities, creativity, and teamwork
+in a competitive environment.Let's work together to bring your ideas to life!
       </p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">
