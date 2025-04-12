@@ -155,7 +155,7 @@ const technologies = [
 const experiences = [
   {
     title: "Full-Stack Developer",
-    company_name: "Tekisky",
+    company_name: "TechTrove",
     icon: tekisky,
     iconBg: "#383E56",
     date: "Jan 2023 - present",
