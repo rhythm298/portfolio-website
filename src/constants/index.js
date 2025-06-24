@@ -183,7 +183,7 @@ const testimonials = [
     name: "Shreeya Saini",
     designation: "Ecommerce Business",
     company: "justbuyz",
-    image: ,
+    image: firstTestimonial,
   },
   {
     testimonial:
