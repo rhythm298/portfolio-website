@@ -199,18 +199,18 @@ const projects = [
   {
     name: "AI Wedding Card Generator",
     description:
-      "Tekisky Mart is a web-based platform that allows users to search, explore, and purchase a wide range of products from various providers, offering a seamless and efficient shopping experience.",
+      "It is a web-based wedding card generator that uses HTML, CSS, and JavaScript to allow users to create personalized, stylish wedding invitations effortlessly. The interface enables dynamic input, real-time preview, and stylish front-end animations for a seamless and interactive user experience. Designed with customization in mind, it offers a futuristic UI that reflects modern celebration trends.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "CSS",
         color: "white-text-gradient",
       },
       {
-        name: "node",
+        name: "Javascript",
         color: "pink-text-gradient",
       },
       {
@@ -220,33 +220,37 @@ const projects = [
  
     ],
     image: project2,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/rhythm298/ai-samadhan",
   },
   {
-    name: "GearXpert",
+    name: "AI-Powered Traffic Congestion Prediction and Disease Surveillance System",
     description:
-      "GearXpert is your ultimate destination for premium auto parts and accessories, Whether you're an automobile enthusiast or a professional, find everything you need to upgrade, repair.",
+      "An AI-powered web app that predicts traffic congestion and monitors disease outbreaks using real-time data. Built with HTML, CSS, and JavaScript during the GovHackathon.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "emailJs",
+        name: "HTML",
         color: "green-text-gradient",
       },
       {
-        name: "Gsap",
+        name: "CSS",
         color: "pink-text-gradient",
       },
+      {
+        name: "Javascript",
+        color: "blue-text-gradient",
+      },
     ],
-    image: gearXpert,
-    source_code_link: "https://github.com/",
+    image: project4,
+    source_code_link: "https://github.com/rhythm298/govhackathon",
   },
   {
-    name: "GoGroove-Ecommerce",
+    name: "CodeCrushers - Responsible Gaming and Tech-Driven Solutions",
     description:
-      "Go-Groove is your ultimate destination for premium products across various categories. Whether you're a savvy shopper or a professional, enhance, and simplify your lifestyle—all in one place!",
+      "CodeCrushers is a collection of tech-driven solutions aimed at building trust in the Indian Online Gaming Ecosystem.",
     tags: [
       {
         name: "react",
@@ -264,9 +268,17 @@ const projects = [
         name: "mongodb",
         color: "green-text-gradient",
       },
+      {
+        name: "python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
     ],
     image: project3,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/rhythm298/codecrushers",
   },
 ];
 
