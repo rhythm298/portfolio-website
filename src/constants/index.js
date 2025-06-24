@@ -244,7 +244,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: project4,
+    image: gearXpert,
     source_code_link: "https://github.com/rhythm298/govhackathon",
   },
   {
