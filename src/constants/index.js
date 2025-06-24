@@ -32,6 +32,7 @@ import {
   firstTestimonial,
   secondTestimonial,
   thirdTestimonial,
+  project4,
 } from '../assets'
 
 
@@ -183,7 +184,7 @@ const testimonials = [
     name: "Shreeya Saini",
     designation: "Ecommerce Business",
     company: "justbuyz",
-    image: firstTestimonial,
+    image: secondTestimonial,
   },
   {
     testimonial:
